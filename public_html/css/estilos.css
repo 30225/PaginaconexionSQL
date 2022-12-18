@@ -1,0 +1,47 @@
+body{
+    background-color: #F4A460;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: red;
+    height: 100px;
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid black;
+
+
+}
+nav ul li{
+    float: left;
+    color: white;
+    list-style: none;
+    margin: 10px;
+
+}
+
+#containers{
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid black;
+
+}
+#contenedor_img{
+    margin: 10px;
+}
+footer{
+    margin: 0px auto;
+    border: 1px solid black;
+}
+
+.contacto_btn{
+
+    width: 30%;
+    padding: 0.8;
+    margin: 1rem;
+    background-color: green;
+    border: green;
+    color: white;
+    font-weight: 600;
+
+}

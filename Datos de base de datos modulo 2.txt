@@ -1,0 +1,3 @@
+DB Name	id19126711_diazlopez_angelodavid
+DB User	id19126711_angelo
+DB Host	localhost
